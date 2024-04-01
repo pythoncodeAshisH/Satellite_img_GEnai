@@ -1,0 +1,11 @@
+streamlit
+folium
+streamlit-folium
+earthengine-api
+geemap
+google-generativeai
+pandas
+geopy
+ee
+matplotlib
+windows-curses
