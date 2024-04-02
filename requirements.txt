@@ -8,3 +8,4 @@ pandas
 geopy
 ee
 matplotlib
+scikit-learn
